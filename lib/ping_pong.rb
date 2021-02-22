@@ -7,7 +7,7 @@ def ping_pong(number)
     elsif i % 5 == 0
       "pong"
     else
-      ig
+      i
     end
   }
 end
