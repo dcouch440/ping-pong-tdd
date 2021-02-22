@@ -1,16 +1,13 @@
 def ping_pong(number)
-  userArray = Array(1..number)
-
-  newArray = userArray.map { |currentIndex|
-    if currentIndex % 3 == 0 && currentIndex % 5 == 0
-    "ping-pong"
-    elsif currentIndex % 3 == 0
+  Array(1..number).map { |i|
+    if i % 3 == 0 && i % 5 == 0
+      "ping-pong"
+    elsif i % 3 == 0
       "ping"
-    elsif currentIndex % 5 == 0
+    elsif i % 5 == 0
       "pong"
     else
-      currentIndex
+      ig
     end
   }
-  return newArray
 end
