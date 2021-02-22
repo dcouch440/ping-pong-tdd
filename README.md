@@ -1,22 +1,12 @@
-# {Project Name}
+# Ping Pong Tdd
 #### *Co-Created By: David Couch*
 #### *Co-Created By: Andrew Lawson*
 #### *Ping Pong With TDD*
-<!-- Check list
-- Project Name
-- Author
-- Brief Description
-- Description
-- Specs
-- Link in gh-pages
-- Project repo
-- git clone repo link
-- date
- -->
+
 * * *
 
 ## Description
-This is an application for learning TDD with ruby while attending Epicodus coding school. This app Might be un finished and does not represent my class mates or my selfs coding knowledge.
+This is an application for learning TDD with ruby while attending Epicodus coding school. This app Might be un finished and does not represent my class mates or my own coding knowledge.
 * * *
 
 ## Technologies used
@@ -30,24 +20,23 @@ This is an application for learning TDD with ruby while attending Epicodus codin
 ### Want to see this webpage now?
 ###### See this web page in action on [Github Pages]({repo})
 
-* Go to ( {project repo} ).
+* Go to ( https://github.com/dcouch440/ping-pong-tdd.git ).
 
-*  Navigate to the code button on the github website.\
-![Code button](/img/README/code.PNG)
+*  Navigate to the code button on the github website.
 
-* Click on the code button to open the menu.\
-![Github Repo Example](/img/README/HTTPS.png)
+* Click on the code button to open the menu.
 
 - Copy the HTTPS code by clicking the clipboard next to the link.
 
 - Within your Bash terminal navigate to your desired location by using cd fallowed by your desired directory.
+
 ```bash
  cd Desktop
 ``` 
 
 - Once you have chosen your desired directory use the command.
 ```bash 
-git clone {git repo}
+git clone https://github.com/dcouch440/ping-pong-tdd.git
 ```
 
 <div 
@@ -88,7 +77,7 @@ code .
 
 
 ## Addition comments:
-* Created on x/xx/21
+* Created on 2/22/21
 
 
 * * *
@@ -102,3 +91,4 @@ Licensed under [MIT license](https://mit-license.org/)
 
 ## Contact Information
 _David Couch: [Email](dcouch440@gmail.com)_
+_Andy Lawson: [Email](alawson89@gmail.com)_
